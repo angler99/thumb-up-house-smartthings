@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gesture Commander",
+  "description": "An application that uses your device's camera to recognize gestures and execute predefined commands. Control your device with simple hand movements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
